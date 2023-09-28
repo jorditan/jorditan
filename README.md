@@ -1,4 +1,5 @@
 # console.log('Hola Mundo✋')
+<img src="D:\Imagenes\Diseño banner behace.png" alt="banner LinkedIn">
 <h3>Hola, mi nombre es Matías Owen Jordán</h3>
 
 - 🧠 Estudiante tecnicatura en programación, Universidad Nacional de Hurlingham
@@ -12,8 +13,8 @@
 <h3 align="left">Contactame mediante:</h3>
 <p align="left">
   Email: matiasowjordan@gmail.com
-  <a href: "https://www.linkedin.com/in/mat%C3%ADas-jord%C3%A1n/" target:_blank>LinkedIn</a>
-  <a href: "https://linktr.ee/matiasjordan" target:_blank>LinkTree</a>
+  <a href="https://www.linkedin.com/in/mat%C3%ADas-jord%C3%A1n/" target:_blank>LinkedIn</a>
+  <a href="https://linktr.ee/matiasjordan" target:_blank>LinkTree</a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas</h3>
