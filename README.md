@@ -1,5 +1,4 @@
 # console.log('Hola Mundo✋')
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fes%2FAjA6&psig=AOvVaw3wTtKgADbKtne_AJnOJCtO&ust=1696001899070000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCTysfRzYEDFQAAAAAdAAAAABAE" width="200"/>
 <h3 aling="center">Hola, mi nombre es Matías Owen Jordán</h3>
 
 - 🧠 Estudiante tecnicatura en programación, Universidad Nacional de Hurlingham
