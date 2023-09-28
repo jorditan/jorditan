@@ -1,5 +1,5 @@
 # console.log('Hola Mundo✋')
-<img src="D:\Imagenes\Diseño banner behace.png" alt="banner LinkedIn">
+<img src="D:\Imagenes\Diseño banner behace.png" alt="banner LinkedIn" width="200px"/>
 <h3>Hola, mi nombre es Matías Owen Jordán</h3>
 
 - 🧠 Estudiante tecnicatura en programación, Universidad Nacional de Hurlingham
