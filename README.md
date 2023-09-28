@@ -1,20 +1,19 @@
-![Shinji evangelion](https://user-images.githubusercontent.com/103342762/221956790-14107ef7-4410-4605-9fe5-bfd3b67d9c7a.jpg)
 # console.log('Hola Mundo✋')
 <h3>Hola, mi nombre es Matías Owen Jordán</h3>
 
-- 🌱 Estoy constantemente aprendiendo **nuevas tecnologías**
+- 🧠 Estudiante tecnicatura en programación, Universidad Nacional de Hurlingham
 
-- 🧠 Actualmente cursando la tecnicatura universitaria en programación en la UNAHUR.
+- 🤝 Trainee Dev desarrollo Front-End
 
-- 🤝 No se me hace dificil la comunicación y los trabajos grupales
+- ⚡ Pasión por el **desarrollo web**, **diseño gráfico** y **diseño UX/UI**
 
-- 📫 Pueden contactarme mediante **matiasowjordan@gmail.com**
+- ✨ En constante aprendizaje de nuevas tecnologías
 
-- ⚡ Fun fact: **Estoy felizmente casado con el CSS** :)
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame mediante:</h3>
 <p align="left">
+  Email: matiasowjordan@gmail.com
+  <a href: "https://www.linkedin.com/in/mat%C3%ADas-jord%C3%A1n/" target:_blank>LinkedIn</a>
+  <a href: "https://linktr.ee/matiasjordan" target:_blank>LinkTree</a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas</h3>
