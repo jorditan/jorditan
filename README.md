@@ -1,6 +1,9 @@
 # console.log('Hola Mundo✋')
 <h3 aling="center">Hola, mi nombre es Matías Owen Jordán</h3>
-![Gifgithub](https://github.com/jorditan/jorditan/assets/103342762/4a0de4db-da5e-41f4-850f-d80972e7f14f)
+
+![bojack](https://github.com/jorditan/jorditan/assets/103342762/1d2f9d94-539a-4237-a830-0926bd9981e8)
+
+
 
 - 🧠 Estudiante tecnicatura en programación, Universidad Nacional de Hurlingham
 
