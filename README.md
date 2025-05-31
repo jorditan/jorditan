@@ -3,8 +3,8 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Edad-20%20años-blue" />
   <img src="https://img.shields.io/badge/Ubicación-Buenos%20Aires-blue" />
-  <img src="https://img.shields.io/badge/Languajes-Español%20%26%20Inglés-blue" /
-  <img src="https://img.shields.io/badge/Situación laboral-Trabajando-blue" />
+  <img src="https://img.shields.io/badge/Languajes-Español%20%26%20Inglés-blue" />
+  <img src="https://img.shields.io/badge/Situación%20laboral-Trabajando-blue" />
 </p>
 
 - 🖌️ 1 año como product Designer en @Hackmetrix
@@ -25,7 +25,7 @@
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h3 style="display: inline-block">Conecten conmigo 🤝</h2></summary>
   </ul>
 </div>
