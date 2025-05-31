@@ -1,8 +1,8 @@
 <h1 align="center">Console.log(Hola chicos, aquí Matías Jordán! 👋)</h1>
 
 <p align="left">
-<img src="https://img.shields.io/badge/20-Años-blue" />
-  <img src="https://img.shields.io/badge/Focus-Bases%20de%-datos-blue" />
+<img src="https://img.shields.io/badge/Edad-20%20años-blue" />
+  <img src="https://img.shields.io/badge/Focus-Bases%20de20%-datos-blue" />
   <img src="https://img.shields.io/badge/Ubicación-Buenos20Aires-blue" />
   <img src="https://img.shields.io/badge/Languajes-Español%20%26%20Inglés-blue" />
 </p>
