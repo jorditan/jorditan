@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/badge/Edad-20%20años-blue" />
   <img src="https://img.shields.io/badge/Ubicación-Buenos%20Aires-blue" />
   <img src="https://img.shields.io/badge/Languajes-Español%20%26%20Inglés-blue" />
-  <img src="https://img.shields.io/badge/Situación%20laboral-Trabajando-cyan" />
-  <img src="https://img.shields.io/badge/Puesto-Product%20Designer-cyan" />
+  <img src="https://img.shields.io/badge/Situación%20laboral-Trabajando-purple" />
+  <img src="https://img.shields.io/badge/Puesto-Product%20Designer-purple" />
 </p>
 
 - 🖌️ 1 año como product Designer en @Hackmetrix
