@@ -21,15 +21,8 @@
   </a>
 </p>
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h3 style="display: inline-block">Conecten conmigo 🤝</h2></summary>
-  </ul>
-</div>
-<hr>
+<h3 style="display: inline-block">Conecten conmigo 🤝</h2></summary>
+<hr border="1px">
 <p align="left">
   
 <a href="https://www.instagram.com/mmatijordan/?next=%2F"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram" /></a>&nbsp;
