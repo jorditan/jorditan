@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker, postgres, figma, miro, github, html,css,sass, java, python, js,ts,react,tailwind,vue,astro,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,docker, postgres, figma,github, html,css,sass, java, python, js,ts,react,tailwind,vue,astro,vscode,&perline=14" />
   </a>
 </p>
 
