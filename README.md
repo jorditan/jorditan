@@ -6,12 +6,12 @@
 
 - 🧠 Conocimientos en Bases de datos, algoritmos y programacion orientada a objetos
 
-## Tecnologías con las que trabajo 
+<h2>Tecnologías con las que trabajo</h2> 
 <hr>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,figma,github,html,java,js,ts,react,redux,tailwind,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,d ocker, postgres, figma, miro, github, html,css,sass, java, python, js,ts,react,tailwind,vue,astro,vscode,&perline=14" />
   </a>
 </p>
 
