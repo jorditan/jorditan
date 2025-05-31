@@ -1,18 +1,16 @@
-# console.log('Hola Mundo✋')
+<h1 align="center">Console.log(Hola chicos, aquí Matías Jordán! 👋)</h1>
 
-- 🖌️ Product Designer en @Hackmetrix
 
-- 👨‍💻 Estudiante tecnicatura en programación, Universidad Nacional de Hurlingham
+- 🖌️ 1 año como product Designer en @Hackmetrix
+
+- 👨‍💻 +3 años Estudiante tecnicatura en programación, Universidad Nacional de Hurlingham - 11/19 materias aprobadas
 
 - 🧠 Conocimientos en Bases de datos, algoritmos y programacion orientada a objetos
 
-<h2>Tecnologías con las que trabajo</h2> 
-<hr>
-
+<h3>Tecnologías con las que trabajo</h3> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,postgres,figma,github,html,css,sass,java,python,js,ts,react,tailwind,vue,astro,vscode&perline=14" />
-
   </a>
 </p>
 
@@ -21,16 +19,15 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h3 style="display: inline-block">Conecten conmigo 🤝</h2></summary>
   </ul>
 </div>
 
-<!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+<br>
+
+<a href="https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/matias-jordan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank" /></a>&nbsp;
+<a href="mailto:matiasowjordan@gmail.com?subject=Hola%20Matías!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
