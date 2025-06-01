@@ -22,6 +22,10 @@
   </a>
 </p>
 
+<h2 style="display: inline-block">¡Visiten mi nuevo <a href="https://matias-jordan-portfolio.netlify.app/" target="blank">portfolio</a>!</h2>
+<hr border="1px">
+<p align="left">
+
 <h3 style="display: inline-block">Conecten conmigo 🤝</h2></summary>
 <hr border="1px">
 <p align="left">
