@@ -14,6 +14,10 @@
 
 - 🧠 Conocimientos en Bases de datos, algoritmos y programacion orientada a objetos
 
+<h2 style="display: inline-block">¡Visiten mi nuevo <a href="https://matias-jordan-portfolio.netlify.app/" target="blank">portfolio</a>!</h2>
+
+![chrome_fkNR41epRN](https://github.com/user-attachments/assets/a6ac4f1b-723e-450e-9ebb-887b6e0cf554)
+
 <h3>Tecnologías con las que trabajo</h3> 
 <hr>
 <p align="center">
@@ -22,7 +26,6 @@
   </a>
 </p>
 
-<h2 style="display: inline-block">¡Visiten mi nuevo <a href="https://matias-jordan-portfolio.netlify.app/" target="blank">portfolio</a>!</h2>
 <hr border="1px">
 <p align="left">
 
