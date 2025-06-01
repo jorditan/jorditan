@@ -26,9 +26,6 @@
   </a>
 </p>
 
-<hr border="1px">
-<p align="left">
-
 <h3 style="display: inline-block">Conecten conmigo 🤝</h2></summary>
 <hr border="1px">
 <p align="left">
