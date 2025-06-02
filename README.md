@@ -10,9 +10,9 @@
 
 - 🖌️ 1 año como product Designer en @Hackmetrix
 
-- 👨‍💻 +3 años Estudiante tecnicatura en programación, Universidad Nacional de Hurlingham - 11/19 materias aprobadas
+- 👨‍💻 +3 años Estudiante tecnicatura en programación, Universidad Nacional de Hurlingham (UNAHUR) - 11/19 materias aprobadas
 
-- 🧠 Conocimientos en Bases de datos, algoritmos y programacion orientada a objetos
+- 🧠 Conocimientos en Bases de datos, algoritmos y programacion orientada a objetos (POO)
 
 <h2 style="display: inline-block">¡Visiten mi nuevo <a href="https://matias-jordan-portfolio.netlify.app/" target="blank">portfolio</a>!</h2>
 
