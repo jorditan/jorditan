@@ -31,7 +31,7 @@
 <p align="left">
   
 <a href="https://www.instagram.com/mmatijordan/?next=%2F"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/matias-jordan/"><img src="https://img.shields.io/badge/behance-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Behance" target="_blank" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/matias-jordan/"><img src="https://img.shields.io/badge/behance-%230077B5.svg?&style=for-the-badge&logo=behance&logoColor=white" alt="Behance" target="_blank" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/matias-jordan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank" /></a>&nbsp;
 <a href="mailto:matiasowjordan@gmail.com?subject=Hola%20Matías!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
