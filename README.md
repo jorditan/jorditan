@@ -8,15 +8,37 @@
   <img src="https://img.shields.io/badge/Puesto-Product%20Designer-purple" />
 </p>
 
-- 🖌️ 1 año como product Designer en @Hackmetrix
+## 🚀 Sobre mí
 
-- 👨‍💻 +3 años Estudiante tecnicatura en programación, Universidad Nacional de Hurlingham (UNAHUR) - 11/19 materias aprobadas
+- 🎨 Apasionado por el diseño centrado en las personas y la estética funcional.
+- 💻 Tecnologías favoritas: **React, Vue, Astro, Tailwind, Python, Figma, Java**.
+- 👁️ Cuido cada detalle en UX/UI, desde la investigación hasta el prototipado y la implementación.
+- 🛠️ Siempre buscando aprender algo nuevo y experimentar con frameworks modernos.
 
-- 🧠 Conocimientos en Bases de datos, algoritmos y programacion orientada a objetos (POO)
+---
 
-<h2 style="display: inline-block">¡Visiten mi nuevo <a href="https://matias-jordan-portfolio.netlify.app/" target="blank">portfolio</a>!</h2>
+## 🌟 Proyectos destacados
 
-![chrome_fkNR41epRN](https://github.com/user-attachments/assets/a6ac4f1b-723e-450e-9ebb-887b6e0cf554)
+- [Rediseño Letterboxd – Caso UX/UI](https://www.behance.net/gallery/208245225/Letterboxd-redesign-Case-of-study-UXUI)
+- [SaaS Legal Module (UX Research/Product Discovery)](https://www.behance.net/gallery/230272939/SaaS-Legal-Module-UX-Research-Product-Discovery)
+- [TPGameIntegrador-thecoders](https://github.com/obj1-unahur-2024s2/TPGameIntegrador-thecoders) — Juego universitario en equipo
+- [PokemonGame](https://github.com/jorditan/PokemonGame) — Juego interactivo inspirado en Pokémon
+- [Translate App](https://github.com/jorditan/translate-app) — Herramienta de traducción multi-idioma
+
+---
+
+## 📂 Portfolio y redes
+
+- 🌐 [Portfolio personal](https://matias-jordan-portfolio.netlify.app/)
+- 🎨 [Behance](https://www.behance.net/matiasowenjordan)
+- 🎬 [Letterboxd](https://letterboxd.com/jorditan/)
+
+---
+
+## 🎬 Hobbies
+
+Me apasionan el cine, la lectura y las bellas artes. Disfruto analizar películas, descubrir nuevas historias y compartir mis opiniones en mi [perfil de Letterboxd](https://letterboxd.com/jorditan/).
+
 
 <h3>Tecnologías con las que trabajo</h3> 
 <hr>
