@@ -1,7 +1,7 @@
 <h1 align="center">console.log("Hola! Soy Matías Jordán 👋")</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Edad-20%20a%C3%B1os-blue" />
+  <img src="https://img.shields.io/badge/Edad-21%20a%C3%B1os-blue" />
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Buenos%20Aires-blue" />
   <img src="https://img.shields.io/badge/Idiomas-Espa%C3%B1ol%20%26%20Ingl%C3%A9s-blue" />
   <img src="https://img.shields.io/badge/Situaci%C3%B3n%20laboral-Trabajando-purple" />
